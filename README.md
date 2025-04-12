@@ -11,13 +11,6 @@ This project is a simple **Tic-Tac-Toe** game built with **React** and **Vite**.
 - Game reset functionality
 - Responsive design for mobile and desktop
 
----
-
-## Installation
-To get this project up and running locally, follow these steps:
-npm install
-npv run dev
-
 ### Prerequisites:
 - **Node.js** (version 12 or higher)
 - **npm** (Node package manager)
